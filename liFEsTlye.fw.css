@@ -1,0 +1,275 @@
+*{
+	margin: 0 auto;
+	
+}
+/* start menu */
+
+body{
+	background:black !important;
+}
+
+.menu {
+	width: 1200px;
+	height: 70px;
+	background-color: white;
+	padding-top: 20px;
+}
+.logo {
+	background-image: url("./img/logo.jpg");
+	width: 130px;
+	height: 50px;
+	float: left;
+	margin: -8px 0 0 -10px;
+}
+.menubar {
+	float: left;
+	font-size: 14px;
+	
+}
+.menubar li {	
+    margin-top: -10px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.login {
+
+	margin-top: -10px;
+}
+.login li {
+    margin-bottom: -20px;
+    margin-left: -12px;
+    margin-right: -12px;
+}
+.search {
+
+	margin-top: -10px;
+}
+
+/* end menu */
+
+/* content-start */
+.content {
+	width: 1200px;
+	height: 400px;
+	margin-top: 5px;
+}
+.left {
+	background-image: url("./img/old-car-wallpaper.jpg");
+	background-size: 900px 398px;
+	width: 900px;
+	height: 398px;
+	color: white;
+	margin-left: -16px;
+}
+.right {
+	background-image: url("./img/FlameBaku.jpg");
+	background-size: 300px 398px;
+	width: 300px;
+	height: 398px;
+	color: white;
+	margin-left: -15px;
+}
+.picture1 {
+	background-image: url("./img/bussinesLunch.jpg");
+	background-size: 300px 250px;
+	border: 1px solid black;
+	width: 300px;
+	height: 250px;
+	color: white;
+	margin-left: -30px;
+}
+.picture11Font1 h4 {
+	color: white;
+	border-bottom: 2px solid #d6a30a;
+	width: 70px;
+	height: 25px;
+	margin: 15px 0 0 15px;
+	font-family: Times;
+}
+.picture11Fontp {
+	margin: 170px 0 0 15px;
+	font-size: 18px;
+}
+.picture2 {
+	background-image: url("./img/futbol.jpg");
+	background-size: 300px 250px;
+	border: 1px solid black;
+	width: 300px;
+	height: 250px;
+	color: white;
+	margin-left: -24px;
+}
+.picture11Font2 h4 {
+	color: white;
+	border-bottom: 2px solid #d6a30a;
+	width: 55px;
+	height: 25px;
+	margin: 15px 0 0 15px;
+	font-family: Times;
+}
+.picture3 {
+	background-image: url("./img/fashion2.jpg");
+	background-size: 300px 250px;
+	border: 1px solid black;
+	width: 300px;
+	height: 250px;
+	color: white;
+	margin-left: -17px;
+}
+.picture11Font3 h4 {
+	color: white;
+	border-bottom: 2px solid #d6a30a;
+	width: 65px;
+	height: 25px;
+	margin: 15px 0 0 15px;
+	font-family: Times;
+}
+.picture4 {
+	background-image: url("./img/eros-ramazzotti.jpg");
+	background-size: 300px 250px;
+	border: 1px solid black;
+	width: 300px;
+	height: 250px;
+	color: white;
+	margin-left: -8px;
+}
+.picture11Font4 h4 {
+	color: white;
+	border-bottom: 2px solid #d6a30a;
+	width: 110px;
+	height: 25px;
+	margin: 15px 0 0 15px;
+	font-family: Times;
+}
+/* end-content */
+
+/* start-centerMenu */
+.centerMenu {
+	width: 1200px;
+}
+.middleLeft {
+	width: 900px;
+	height: 398px;
+	color: white;
+	margin-left: -15px;
+}
+.middleRight {
+	width: 300px;
+	height: 398px;
+	color: #FA6000;
+	margin-left: -15px;
+}
+.middleRightWords {
+	width: 270px;
+	height: 398px;
+	margin-right: 5px;
+}
+.middleRight h5 {
+	float: right;
+	margin-right: 10px;
+	color: #737373;
+}
+.picture5 {
+	background-image: url("./img/grand_hyatt.jpg");
+	background-size: 300px 320px;
+	width: 300px;
+	height: 320px;
+	color: white;
+	border: 1px solid black;
+	margin-left: -30px;
+}
+.picture6 {
+	background-image: url("./img/backfon.jpg");
+	background-size: 300px 320px;
+	width: 300px;
+	height: 320px;
+	border: 1px solid black;
+	margin-left: -24px;
+	background-color: white;
+}
+.picture7 {
+	background-image: url("./img/mount.jpg");
+	background-size: 300px 320px;
+	width: 300px;
+	height: 320px;
+	color: white;
+	border: 1px solid black;
+	margin-left: -17px;
+}
+.picture8 {
+	background-image: url("./img/backfon.jpg");
+	background-size: 300px 320px;
+	width: 300px;
+	height: 320px;
+	border: 1px solid black;
+	margin-left: -8px;
+	background-color: white;
+}
+.picture9 {
+	background-image: url("./img/backfon.jpg");
+	background-size: 300px 320px;
+	width: 300px;
+	height: 320px;
+	border: 1px solid black;
+	margin-left: -30px;
+	background-color: white;
+}
+.picture10 {
+	background-image: url("./img/meals.jpg");
+	background-size: 300px 320px;
+	width: 300px;
+	height: 320px;
+	color: white;
+	border: 1px solid black;
+	margin-left: -24px;
+}
+.picture11 {
+	background-image: url("./img/backfon.jpg");
+	background-size: 300px 320px;
+	width: 300px;
+	height: 320px;
+	border: 1px solid black;
+	margin-left: -17px;
+}
+.picture11p h5 {
+	margin: 15px 0 0 15px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+.picture11Font h4 {
+	color: #d6a30a;
+	border-bottom: 2px solid #d6a30a;
+	width: 80px;
+	height: 25px;
+	margin: 15px 0 0 15px;
+	font-family: Times;
+}
+.picture11p p {
+	margin: 15px;
+}
+.picture11p p:nth-child(4) {
+	color: #d6a30a;
+}
+.picture12 {
+	background-image: url("./img/ps4.jpg");
+	background-size: 300px 320px;
+	width: 300px;
+	height: 320px;
+	border: 1px solid black;
+	margin-left: -8px;
+}
+/* end-centerMenu */
+
+
+/* start-fotter */
+.footer {
+	background-color: #4e443e;
+	width: 1200px;
+	height: 70px;
+	color: white;
+	border: 1px solid black;
+	padding-top: 20px;
+}
+.footerHeight {
+	height: 300px;
+}
+/* end-footer */
